@@ -4,5 +4,5 @@
 BDD written in Gherkin is located in
 <br/>
 src
-|--test
+|--test  
    |--resources/features
