@@ -11,3 +11,5 @@ For Maven, it's in
 ```
 pom.xml
 ```
+In this automation framework,
+i applied Page Object Model
