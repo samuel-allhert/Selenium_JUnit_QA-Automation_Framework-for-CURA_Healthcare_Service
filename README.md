@@ -7,3 +7,7 @@ src
 |--test
    |--resources/features
 ```
+For Maven, it's in
+```
+pom.xml
+```
