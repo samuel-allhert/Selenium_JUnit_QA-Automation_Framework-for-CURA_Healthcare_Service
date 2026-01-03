@@ -3,6 +3,6 @@
 <br/>
 BDD written in Gherkin is located in
 <br/>
-src
+src <br/>
 |--test <br/>
    |--resources/features
