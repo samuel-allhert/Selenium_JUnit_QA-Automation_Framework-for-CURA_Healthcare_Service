@@ -20,3 +20,19 @@ src
     |-- java
         |-- pages
 ```
+which will be used for Test Steps in
+```
+src
+|-- test
+    |-- java
+        |-- steps
+```
+which will be run by TestRunner in
+```
+src
+|-- test
+    |-- java
+        |-- runners
+```
+Meanwhile, Hooks are for setting driver up
+and tearing driver down
