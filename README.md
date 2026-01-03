@@ -35,4 +35,10 @@ src
         |-- runners
 ```
 Meanwhile, Hooks are for setting driver up
-and tearing driver down
+and tearing driver down, which is located in
+```
+src
+|-- test
+    |-- java
+        |-- hooks
+```
