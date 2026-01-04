@@ -1,5 +1,9 @@
 # Selenium (JUnit Framework)
 ## with Cucumber, Gherkin, BDD, and Maven
+### Website being tested
+```
+https://katalon-demo-cura.herokuapp.com/
+```
 BDD written in Gherkin is located in
 <br/>
 ```
